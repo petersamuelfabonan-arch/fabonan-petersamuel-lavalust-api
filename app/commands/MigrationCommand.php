@@ -1,6 +1,6 @@
 <?php
 
-class MigrationCommandS
+class MigrationCommand
 {
     public static $command = 'migration';
 
